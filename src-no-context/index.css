@@ -130,7 +130,6 @@ progress {
 
 .btn:not([disabled]):hover {
   background-color: var(--color-darkest);
-  color: white
 }
 
 .btn-option:not([disabled]):hover {
